@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/donut-chart/static/css/main.b3410137.css",
+    "main.js": "/donut-chart/static/js/main.c98e3b82.js",
+    "index.html": "/donut-chart/index.html",
+    "main.b3410137.css.map": "/donut-chart/static/css/main.b3410137.css.map",
+    "main.c98e3b82.js.map": "/donut-chart/static/js/main.c98e3b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3410137.css",
+    "static/js/main.c98e3b82.js"
+  ]
+}
